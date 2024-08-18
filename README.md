@@ -34,7 +34,7 @@ The verification of the bot is automatic and insant!
 
 If you need help or have any questions about using Quasar Bot:
 
-- **Join the Support Server:** [Support Server Link](https://discord.gg/)
+**Join the Support Server:** [Support Server Link](https://discord.gg/)
 
 ### Feedback and Suggestions
 
